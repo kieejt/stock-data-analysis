@@ -28,4 +28,4 @@ stock-data-analysis/
 
 ## Final Dashboard
 
-[Dashboard](Dashboards.pdf)
+[Dashboard](PowerBI/Dashboards.pdf)
